@@ -30,3 +30,4 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Demo
+![README Generator](readmegenerated.gif)
